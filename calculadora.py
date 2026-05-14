@@ -1,1 +1,4 @@
-print("Calculadora executada com sucesso!")
+def soma(a, b):
+  return a + b
+
+print (soma (2, 3))
